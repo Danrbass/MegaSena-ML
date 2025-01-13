@@ -9,4 +9,4 @@ O projeto em questão se dividiu em dois passos. O primeiro é a extração dos 
 
 2° Etapa - Análise exploratória dos dados 
 
-3° Etapa - Desenvolvendo o modelo
+3° Etapa - Implementando o modelo e analisando a viabilidade pela matriz de confusão.
